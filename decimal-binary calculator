@@ -1,6 +1,3 @@
-/* C programming source code to convert either binary to decimal or decimal to binary according to data entered by user. */
-/* From http://www.programiz.com/ */
-
 #include <stdio.h>
 #include <math.h>
 int binary_decimal(int n);
